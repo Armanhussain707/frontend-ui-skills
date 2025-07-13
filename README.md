@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Armanhussain707/vei-ui-frontend-showcase/main/screenshot.png" alt="Video Editing UI Preview" width="90%" />
+  <img src="https://github.com/Armanhussain707/frontend-ui-skills/blob/4a6b9a3b4c6667b770de541a0b78f5355e95013b/screenshot.png" alt="Video Editing UI Preview" width="90%" />
 </p>
 
 # 🎬 Video Editing Course Website – Frontend UI (Design to Code)
